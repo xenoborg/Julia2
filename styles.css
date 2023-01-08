@@ -7,7 +7,7 @@
     background: linear-gradient(to right, hsl(200, 100%, 50%), hsl(175, 100%, 50%));
     display: flex;
     justify-content: center;
-    align-items: 100vh ;
+    align-items: 100vh;
     overflow: hidden;
 
  }
@@ -54,7 +54,7 @@
     height: 50%;
     background-color: black;
     border-top-left-radius: 10px;
-    border-top-right-radius: 10px;;
+    border-top-right-radius: 10px;
     transform-origin: bottom;
     transform: translateX(-50%) rotate(calc(var(--rotation) * 1deg));
  }
